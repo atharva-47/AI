@@ -1,0 +1,33 @@
+** Super Easy **
+Breadth First Search        	
+Depth First Search	
+8-Puzzle Problem
+Counting Goal States
+
+** Easy **
+Uniform Cost Search	
+Best First Search	
+Depth Limited Search	
+
+** Moderate **
+Minimax Algorithm -- Done	
+A* Algorithm
+Water Jug Problem
+
+
+
+1. Queue
+Breadth First Search (BFS)
+
+2. Stack
+Depth First Search (DFS) (or recursion stack)
+Depth Limited Search (DLS)
+
+3. Priority Queue
+Uniform Cost Search (UCS)
+Best First Search
+A Algorithm*
+
+4. Arrays/2D Matrix
+8-Puzzle Problem
+Water Jug Problem
